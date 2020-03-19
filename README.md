@@ -7,7 +7,9 @@ goal to be achieved in coming months
    - improving deep neural network
    - convolutional neural network in tensorflow
    - machine learning
+   - cs50
    - try to complete one week everyday of each course
+   If you do this by the time u join college you will have 5 COURSES in your cv and linkeldn account with professional      certificates.That will certainly increase the weight of your resume.
 2. Restart competitive coding
    - solve at least one question on dsa in c++ on codechef dsa course
 3. Try to achieve 1550 ranking on codechef
