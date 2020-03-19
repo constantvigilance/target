@@ -20,6 +20,6 @@ goal to be achieved in coming months
 4. cv updated
 
 Next Day Goal:
-1. week 1 and week 2 of convolutional neural network complete
+1. week 2 and week 3 of convolutional neural network complete
 2. 2 competitive coding question of previous contests
 3. 1 mail send
