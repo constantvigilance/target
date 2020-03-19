@@ -14,8 +14,8 @@ goal to be achieved in coming months
 4. Post daily update of completed work in the same file
 
 18-03-19
-1. week 0 of convolutional neural networks
-2. week 1 (half) of convolutional neural networks
+1. week 1 of convolutional neural networks
+2. week 2 (half) of convolutional neural networks
 3. 1 question of competitive coding
 4. cv updated
 
