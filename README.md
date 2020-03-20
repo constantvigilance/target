@@ -25,3 +25,12 @@ Next Day Goal:
 1. week 2 and week 3 of convolutional neural network complete
 2. 2 competitive coding question of previous contests
 3. 1 mail send
+
+19-03-20
+1. week 2 completed
+2. week 3 done half
+
+Next day goal:
+1.week 3 and week 4 of convolutional neural networks
+2.mail write
+
