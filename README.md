@@ -32,5 +32,5 @@ Next Day Goal:
 
 Next day goal:
 1.week 3 and week 4 of convolutional neural networks
-2.mail write
+2.one mail write
 
