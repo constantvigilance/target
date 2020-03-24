@@ -34,3 +34,21 @@ Next day goal:
 1.week 3 and week 4 of convolutional neural networks
 2.one mail write
 
+20-03-2020
+1.week 3 completed
+
+21-03-2020
+1 days wasted
+
+22-03-20
+Felt sick
+
+23-02-20
+wasted playing games
+
+Overall I wasted 3 days. Ok forget it.Start again
+
+Target for 24-02-20
+-complete the ongoning course on cnn
+
+
