@@ -14,6 +14,8 @@ goal to be achieved in coming months
    - solve at least one question on dsa in c++ on codechef dsa course
 3. Try to achieve 1550 ranking on codechef
 4. Post daily update of completed work in the same file
+5. apply for microsoft student partners
+6. apply for an  intern in summer
 
 18-03-19
 1. week 1 of convolutional neural networks
@@ -51,4 +53,11 @@ Overall I wasted 3 days. Ok forget it.Start again
 Target for 24-02-20
 -complete the ongoning course on cnn
 
+24-02-2020 -26-02-2020:
+-wasted
 
+27-02-2020
+completeed course on neural network
+
+TAARGET:
+IMPROVING HYPERPARAMETER coursde
